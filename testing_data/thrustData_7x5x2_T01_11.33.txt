@@ -1,0 +1,200 @@
+23:11:53.360 -> F⸮@E[Y]UeZQ	CB⸮P@@⸮HF⸮Welcome to the Thrust Test Stand Program
+23:11:53.360 -> ----------------------------------------
+23:11:53.360 -> 
+23:11:53.360 -> Choose an option to continue:
+23:11:53.360 -> A: Calibrate Load Cell
+23:11:53.360 -> B: Run Manual Thrust Test
+23:11:53.360 -> C: Run Auto Thrust Test
+23:11:56.671 -> ----------------------------------------
+23:11:56.671 -> 
+23:11:56.671 -> Load Cell Setup Complete, check for zero reading
+23:11:56.671 -> Zeroed Load Cell Reading: 0.110 grams----------------------------------------
+23:11:57.560 -> 
+23:11:59.563 -> Please Turn on the battery-ESC switch within 5s.
+23:12:04.570 -> Starting ESC Arming Sequence...
+23:12:07.538 -> ESC Arming Complete!
+23:12:07.538 -> ----------------------------------------
+23:12:07.538 -> 
+23:12:07.538 -> The Automatic Thrust Test will begin now....
+23:12:07.538 ->   The test will increase throttle by 10% each time,
+23:12:07.585 ->   spending 4s at each throttle.
+23:12:07.585 ->   Toggle the power switch at any point to shut off the system.
+23:12:07.585 -> 
+23:12:09.214 -> Throttle: 0% 	 | 	 Thrust: -0.649 grams
+23:12:09.916 -> Throttle: 0% 	 | 	 Thrust: -0.585 grams
+23:12:10.659 -> Throttle: 0% 	 | 	 Thrust: -0.546 grams
+23:12:11.355 -> Throttle: 0% 	 | 	 Thrust: -0.520 grams
+23:12:12.055 -> Throttle: 0% 	 | 	 Thrust: -0.608 grams
+23:12:12.802 -> Throttle: 10% 	 | 	 Thrust: 2.123 grams
+23:12:13.501 -> Throttle: 10% 	 | 	 Thrust: 49.598 grams
+23:12:14.199 -> Throttle: 10% 	 | 	 Thrust: 53.232 grams
+23:12:14.943 -> Throttle: 10% 	 | 	 Thrust: 53.132 grams
+23:12:15.640 -> Throttle: 10% 	 | 	 Thrust: 53.152 grams
+23:12:16.382 -> Throttle: 12% 	 | 	 Thrust: 55.419 grams
+23:12:16.895 -> Throttle: 14% 	 | 	 Thrust: 73.055 grams
+23:12:17.407 -> Throttle: 16% 	 | 	 Thrust: 85.252 grams
+23:12:17.965 -> Throttle: 18% 	 | 	 Thrust: 99.873 grams
+23:12:18.476 -> Throttle: 20% 	 | 	 Thrust: 128.422 grams
+23:12:19.218 -> Throttle: 20% 	 | 	 Thrust: 127.974 grams
+23:12:19.962 -> Throttle: 20% 	 | 	 Thrust: 128.071 grams
+23:12:20.665 -> Throttle: 20% 	 | 	 Thrust: 135.275 grams
+23:12:21.362 -> Throttle: 20% 	 | 	 Thrust: 128.860 grams
+23:12:22.105 -> Throttle: 22% 	 | 	 Thrust: 130.388 grams
+23:12:22.617 -> Throttle: 24% 	 | 	 Thrust: 145.492 grams
+23:12:23.132 -> Throttle: 26% 	 | 	 Thrust: 162.226 grams
+23:12:23.693 -> Throttle: 28% 	 | 	 Thrust: 177.891 grams
+23:12:24.203 -> Throttle: 30% 	 | 	 Thrust: 193.470 grams
+23:12:24.953 -> Throttle: 30% 	 | 	 Thrust: 207.719 grams
+23:12:25.653 -> Throttle: 30% 	 | 	 Thrust: 207.536 grams
+23:12:26.396 -> Throttle: 30% 	 | 	 Thrust: 213.649 grams
+23:12:27.093 -> Throttle: 30% 	 | 	 Thrust: 208.509 grams
+23:12:27.792 -> Throttle: 32% 	 | 	 Thrust: 210.824 grams
+23:12:28.308 -> Throttle: 34% 	 | 	 Thrust: 225.048 grams
+23:12:28.867 -> Throttle: 36% 	 | 	 Thrust: 244.062 grams
+23:12:29.378 -> Throttle: 38% 	 | 	 Thrust: 264.047 grams
+23:12:29.939 -> Throttle: 40% 	 | 	 Thrust: 300.634 grams
+23:12:30.684 -> Throttle: 40% 	 | 	 Thrust: 293.375 grams
+23:12:31.382 -> Throttle: 40% 	 | 	 Thrust: 293.106 grams
+23:12:32.124 -> Throttle: 40% 	 | 	 Thrust: 292.776 grams
+23:12:32.823 -> Throttle: 40% 	 | 	 Thrust: 293.634 grams
+23:12:33.524 -> Throttle: 42% 	 | 	 Thrust: 297.769 grams
+23:12:34.038 -> Throttle: 44% 	 | 	 Thrust: 314.942 grams
+23:12:34.594 -> Throttle: 46% 	 | 	 Thrust: 331.052 grams
+23:12:35.104 -> Throttle: 48% 	 | 	 Thrust: 355.482 grams
+23:12:35.664 -> Throttle: 50% 	 | 	 Thrust: 371.497 grams
+23:12:36.413 -> Throttle: 50% 	 | 	 Thrust: 381.651 grams
+23:12:37.110 -> Throttle: 50% 	 | 	 Thrust: 379.963 grams
+23:12:37.809 -> Throttle: 50% 	 | 	 Thrust: 380.559 grams
+23:12:38.553 -> Throttle: 50% 	 | 	 Thrust: 381.206 grams
+23:12:39.256 -> Throttle: 52% 	 | 	 Thrust: 387.132 grams
+23:12:39.768 -> Throttle: 54% 	 | 	 Thrust: 401.319 grams
+23:12:40.331 -> Throttle: 56% 	 | 	 Thrust: 419.176 grams
+23:12:40.844 -> Throttle: 58% 	 | 	 Thrust: 448.953 grams
+23:12:41.401 -> Throttle: 60% 	 | 	 Thrust: 484.867 grams
+23:12:42.103 -> Throttle: 60% 	 | 	 Thrust: 499.459 grams
+23:12:42.850 -> Throttle: 60% 	 | 	 Thrust: 496.503 grams
+23:12:43.554 -> Throttle: 60% 	 | 	 Thrust: 496.331 grams
+23:12:44.262 -> Throttle: 60% 	 | 	 Thrust: 496.387 grams
+23:12:44.962 -> Throttle: 62% 	 | 	 Thrust: 503.783 grams
+23:12:45.516 -> Throttle: 64% 	 | 	 Thrust: 530.714 grams
+23:12:46.030 -> Throttle: 66% 	 | 	 Thrust: 554.225 grams
+23:12:46.588 -> Throttle: 68% 	 | 	 Thrust: 574.465 grams
+23:12:47.101 -> Throttle: 70% 	 | 	 Thrust: 613.787 grams
+23:12:47.846 -> Throttle: 70% 	 | 	 Thrust: 611.884 grams
+23:12:48.545 -> Throttle: 70% 	 | 	 Thrust: 614.905 grams
+23:12:49.289 -> Throttle: 70% 	 | 	 Thrust: 610.682 grams
+23:12:49.989 -> Throttle: 70% 	 | 	 Thrust: 610.704 grams
+23:12:50.689 -> Throttle: 72% 	 | 	 Thrust: 616.185 grams
+23:12:51.198 -> Throttle: 74% 	 | 	 Thrust: 641.501 grams
+23:12:51.756 -> Throttle: 76% 	 | 	 Thrust: 667.983 grams
+23:12:52.271 -> Throttle: 78% 	 | 	 Thrust: 696.053 grams
+23:12:52.833 -> Throttle: 80% 	 | 	 Thrust: 733.890 grams
+23:12:53.583 -> Throttle: 80% 	 | 	 Thrust: 740.130 grams
+23:12:54.281 -> Throttle: 80% 	 | 	 Thrust: 735.331 grams
+23:12:54.981 -> Throttle: 80% 	 | 	 Thrust: 729.829 grams
+23:12:55.729 -> Throttle: 80% 	 | 	 Thrust: 726.460 grams
+23:12:56.433 -> Throttle: 82% 	 | 	 Thrust: 732.217 grams
+23:12:56.947 -> Throttle: 84% 	 | 	 Thrust: 758.909 grams
+23:12:57.468 -> Throttle: 86% 	 | 	 Thrust: 779.888 grams
+23:12:58.028 -> Throttle: 88% 	 | 	 Thrust: 808.705 grams
+23:12:58.540 -> Throttle: 90% 	 | 	 Thrust: 840.275 grams
+23:12:59.289 -> Throttle: 90% 	 | 	 Thrust: 854.753 grams
+23:12:59.988 -> Throttle: 90% 	 | 	 Thrust: 845.389 grams
+23:13:00.732 -> Throttle: 90% 	 | 	 Thrust: 842.588 grams
+23:13:01.431 -> Throttle: 90% 	 | 	 Thrust: 839.662 grams
+23:13:02.129 -> Throttle: 92% 	 | 	 Thrust: 846.025 grams
+23:13:02.646 -> Throttle: 94% 	 | 	 Thrust: 874.764 grams
+23:13:03.206 -> Throttle: 96% 	 | 	 Thrust: 897.794 grams
+23:13:03.719 -> Throttle: 98% 	 | 	 Thrust: 924.645 grams
+23:13:04.279 -> Throttle: 100% 	 | 	 Thrust: 949.895 grams
+23:13:05.024 -> Throttle: 100% 	 | 	 Thrust: 947.377 grams
+23:13:05.718 -> Throttle: 100% 	 | 	 Thrust: 942.474 grams
+23:13:06.418 -> Throttle: 100% 	 | 	 Thrust: 940.966 grams
+23:13:07.163 -> Throttle: 100% 	 | 	 Thrust: 941.318 grams
+23:13:07.864 -> Throttle: 98% 	 | 	 Thrust: 938.103 grams
+23:13:08.377 -> Throttle: 96% 	 | 	 Thrust: 923.518 grams
+23:13:08.941 -> Throttle: 94% 	 | 	 Thrust: 883.141 grams
+23:13:09.454 -> Throttle: 92% 	 | 	 Thrust: 853.713 grams
+23:13:10.013 -> Throttle: 90% 	 | 	 Thrust: 828.086 grams
+23:13:10.713 -> Throttle: 90% 	 | 	 Thrust: 806.243 grams
+23:13:11.459 -> Throttle: 90% 	 | 	 Thrust: 807.829 grams
+23:13:12.161 -> Throttle: 90% 	 | 	 Thrust: 808.112 grams
+23:13:12.856 -> Throttle: 90% 	 | 	 Thrust: 806.690 grams
+23:13:13.604 -> Throttle: 88% 	 | 	 Thrust: 798.287 grams
+23:13:14.113 -> Throttle: 86% 	 | 	 Thrust: 771.644 grams
+23:13:14.622 -> Throttle: 84% 	 | 	 Thrust: 745.336 grams
+23:13:15.181 -> Throttle: 82% 	 | 	 Thrust: 719.979 grams
+23:13:15.699 -> Throttle: 80% 	 | 	 Thrust: 697.575 grams
+23:13:16.443 -> Throttle: 80% 	 | 	 Thrust: 681.566 grams
+23:13:17.188 -> Throttle: 80% 	 | 	 Thrust: 681.329 grams
+23:13:17.889 -> Throttle: 80% 	 | 	 Thrust: 681.316 grams
+23:13:18.587 -> Throttle: 80% 	 | 	 Thrust: 672.368 grams
+23:13:19.333 -> Throttle: 78% 	 | 	 Thrust: 668.784 grams
+23:13:19.847 -> Throttle: 76% 	 | 	 Thrust: 645.271 grams
+23:13:20.361 -> Throttle: 74% 	 | 	 Thrust: 619.708 grams
+23:13:20.922 -> Throttle: 72% 	 | 	 Thrust: 592.236 grams
+23:13:21.438 -> Throttle: 70% 	 | 	 Thrust: 581.898 grams
+23:13:22.183 -> Throttle: 70% 	 | 	 Thrust: 555.947 grams
+23:13:22.881 -> Throttle: 70% 	 | 	 Thrust: 556.167 grams
+23:13:23.627 -> Throttle: 70% 	 | 	 Thrust: 556.307 grams
+23:13:24.327 -> Throttle: 70% 	 | 	 Thrust: 557.787 grams
+23:13:25.024 -> Throttle: 68% 	 | 	 Thrust: 548.671 grams
+23:13:25.536 -> Throttle: 66% 	 | 	 Thrust: 526.030 grams
+23:13:26.094 -> Throttle: 64% 	 | 	 Thrust: 502.409 grams
+23:13:26.607 -> Throttle: 62% 	 | 	 Thrust: 480.581 grams
+23:13:27.163 -> Throttle: 60% 	 | 	 Thrust: 472.535 grams
+23:13:27.903 -> Throttle: 60% 	 | 	 Thrust: 430.733 grams
+23:13:28.599 -> Throttle: 60% 	 | 	 Thrust: 432.051 grams
+23:13:29.344 -> Throttle: 60% 	 | 	 Thrust: 433.648 grams
+23:13:30.042 -> Throttle: 60% 	 | 	 Thrust: 434.705 grams
+23:13:30.745 -> Throttle: 58% 	 | 	 Thrust: 425.837 grams
+23:13:31.257 -> Throttle: 56% 	 | 	 Thrust: 399.137 grams
+23:13:31.814 -> Throttle: 54% 	 | 	 Thrust: 386.571 grams
+23:13:32.372 -> Throttle: 52% 	 | 	 Thrust: 371.812 grams
+23:13:32.881 -> Throttle: 50% 	 | 	 Thrust: 358.487 grams
+23:13:33.629 -> Throttle: 50% 	 | 	 Thrust: 345.179 grams
+23:13:34.330 -> Throttle: 50% 	 | 	 Thrust: 344.283 grams
+23:13:35.029 -> Throttle: 50% 	 | 	 Thrust: 341.392 grams
+23:13:35.772 -> Throttle: 50% 	 | 	 Thrust: 344.488 grams
+23:13:36.466 -> Throttle: 48% 	 | 	 Thrust: 339.115 grams
+23:13:36.978 -> Throttle: 46% 	 | 	 Thrust: 322.356 grams
+23:13:37.538 -> Throttle: 44% 	 | 	 Thrust: 303.493 grams
+23:13:38.053 -> Throttle: 42% 	 | 	 Thrust: 289.034 grams
+23:13:38.608 -> Throttle: 40% 	 | 	 Thrust: 274.120 grams
+23:13:39.352 -> Throttle: 40% 	 | 	 Thrust: 262.906 grams
+23:13:40.054 -> Throttle: 40% 	 | 	 Thrust: 264.300 grams
+23:13:40.752 -> Throttle: 40% 	 | 	 Thrust: 264.740 grams
+23:13:41.495 -> Throttle: 40% 	 | 	 Thrust: 264.408 grams
+23:13:42.196 -> Throttle: 38% 	 | 	 Thrust: 261.326 grams
+23:13:42.708 -> Throttle: 36% 	 | 	 Thrust: 251.148 grams
+23:13:43.265 -> Throttle: 34% 	 | 	 Thrust: 225.353 grams
+23:13:43.784 -> Throttle: 32% 	 | 	 Thrust: 208.378 grams
+23:13:44.344 -> Throttle: 30% 	 | 	 Thrust: 194.098 grams
+23:13:45.086 -> Throttle: 30% 	 | 	 Thrust: 181.565 grams
+23:13:45.790 -> Throttle: 30% 	 | 	 Thrust: 181.244 grams
+23:13:46.490 -> Throttle: 30% 	 | 	 Thrust: 181.656 grams
+23:13:47.189 -> Throttle: 30% 	 | 	 Thrust: 183.056 grams
+23:13:47.933 -> Throttle: 28% 	 | 	 Thrust: 179.539 grams
+23:13:48.446 -> Throttle: 26% 	 | 	 Thrust: 176.061 grams
+23:13:48.958 -> Throttle: 24% 	 | 	 Thrust: 152.954 grams
+23:13:49.511 -> Throttle: 22% 	 | 	 Thrust: 134.410 grams
+23:13:50.069 -> Throttle: 20% 	 | 	 Thrust: 121.554 grams
+23:13:50.768 -> Throttle: 20% 	 | 	 Thrust: 109.005 grams
+23:13:51.508 -> Throttle: 20% 	 | 	 Thrust: 108.698 grams
+23:13:52.208 -> Throttle: 20% 	 | 	 Thrust: 108.642 grams
+23:13:52.950 -> Throttle: 20% 	 | 	 Thrust: 108.755 grams
+23:13:53.652 -> Throttle: 18% 	 | 	 Thrust: 105.846 grams
+23:13:54.167 -> Throttle: 16% 	 | 	 Thrust: 104.780 grams
+23:13:54.682 -> Throttle: 14% 	 | 	 Thrust: 84.245 grams
+23:13:55.240 -> Throttle: 12% 	 | 	 Thrust: 67.779 grams
+23:13:55.753 -> Throttle: 10% 	 | 	 Thrust: 53.730 grams
+23:13:56.497 -> Throttle: 10% 	 | 	 Thrust: 41.947 grams
+23:13:57.243 -> Throttle: 10% 	 | 	 Thrust: 41.213 grams
+23:13:57.942 -> Throttle: 10% 	 | 	 Thrust: 41.683 grams
+23:13:58.641 -> Throttle: 10% 	 | 	 Thrust: 42.564 grams
+23:13:59.391 -> Throttle: 0% 	 | 	 Thrust: 37.409 grams
+23:14:00.092 -> Throttle: 0% 	 | 	 Thrust: 3.206 grams
+23:14:00.791 -> Throttle: 0% 	 | 	 Thrust: 0.611 grams
+23:14:01.539 -> Throttle: 0% 	 | 	 Thrust: 0.593 grams
+23:14:02.238 -> Throttle: 0% 	 | 	 Thrust: 0.583 grams
+23:14:04.436 -> Finished Auto Test...
